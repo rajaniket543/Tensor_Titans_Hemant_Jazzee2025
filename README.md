@@ -15,10 +15,10 @@ You can find the complete documentation in the [docs/](./docs) folder
 
 Watch the video presentation on YouTube:
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-YouTube-red?logo=youtube)](https://youtu.be/k_yLMwF-1g0?feature=shared)
 
 > Click the badge above or use the link below:  
-**🔗 [YouTube Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
+**🔗 [YouTube Video](https://youtu.be/k_yLMwF-1g0?feature=shared)**
 
 ---
 
