@@ -30,7 +30,5 @@ Watch the video presentation on YouTube:
 
 ---
 
-## 📫 Contact
 
-For any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo/issues) or email.
 
