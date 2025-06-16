@@ -6,7 +6,7 @@ Welcome to this repository! It includes a **project document** and a **YouTube v
 
 ## 📄 Project Document
 
-You can find the complete documentation in the [docs/](./docs) folder 
+You can find the complete documentation in the main branch. 
 > The document contains a detailed explanation of the project idea, approach, implementation, and outcomes.
 
 ---
