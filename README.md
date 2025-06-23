@@ -24,7 +24,7 @@ Watch the video presentation on YouTube:
 
 ## 📌 Contents
 
-- 📄 `project_document.pdf` – Detailed project report  
+- 📄 Detailed project report  
 - 🔗 YouTube video link – Visual explanation or demo  
 - 🗂️ Any supporting files (if applicable)
 
