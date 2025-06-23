@@ -15,10 +15,10 @@ You can find the complete documentation in the main branch.
 
 Watch the video presentation on YouTube:
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-YouTube-red?logo=youtube)](https://youtu.be/k_yLMwF-1g0?feature=shared)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-YouTube-red?logo=youtube)]([https://youtu.be/k_yLMwF-1g0?feature=shared](https://youtu.be/T17mE-O-Mrs?si=GynBli4LfcfLVBZl))
 
 > Click the badge above or use the link below:  
-**🔗 [YouTube Video](https://youtu.be/k_yLMwF-1g0?feature=shared)**
+**🔗 [YouTube Video]([https://youtu.be/k_yLMwF-1g0?feature=shared](https://youtu.be/T17mE-O-Mrs?si=GynBli4LfcfLVBZl))**
 
 ---
 
